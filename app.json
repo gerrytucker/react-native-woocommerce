@@ -1,9 +1,9 @@
 {
-  "name": "sena-shop",
-  "displayName": "sena-shop",
+  "name": "Scratby Premier",
+  "displayName": "scratby-premier",
   "expo": {
-    "name": "sena-shop",
-    "slug": "sena-shop",
+    "name": "Scratby Premier",
+    "slug": "scratby-premier",
     "version": "1.0.0",
     "platforms": [
       "ios",
@@ -12,6 +12,9 @@
     ],
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "ios": {
+      "bundleIdentifier": "com.gerrytucker.scratby-premier"
+    }
   }
 }
